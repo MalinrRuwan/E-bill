@@ -20,7 +20,6 @@ c6=75.00
 fc5=1500.00 #fixed cost of electricity when consumption is above 180kWh
 
 units=int(input("Enter the number of units: "))
-days=int(input("Enter the number of days: "))
 cost=0
 tcost=0
 
